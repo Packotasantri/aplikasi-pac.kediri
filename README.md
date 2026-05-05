@@ -1,2 +1,2 @@
-# santri
+# Kediri
 Aplikasi
